@@ -1,0 +1,13 @@
+filename = 'interiors-0.5.6+forge-mc1.20.1-build.104.jar'
+name = 'Create: Interiors'
+side = 'both'
+
+[download]
+hash = 'fe4c41e125f01e64c4ac08a8b201abaea98f1a95'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5694662
+project-id = 906239

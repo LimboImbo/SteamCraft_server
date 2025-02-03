@@ -1,0 +1,13 @@
+filename = 'Create_Deco_Casing_3.1.0_1.20.1.jar'
+name = 'Create Decoration Casing'
+side = 'both'
+
+[download]
+hash = '8baddcbb49de1e7356581bf5b83215195ee0b0a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4776904
+project-id = 782293

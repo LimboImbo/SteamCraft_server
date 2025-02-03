@@ -1,0 +1,13 @@
+filename = 'ThirstWasTaken-1.20.1-1.3.12.jar'
+name = 'Thirst Was Taken'
+side = 'both'
+
+[download]
+hash = '13ef07bffb17c59a235c2326b73363f51ea72f04675c34d904c057d3fe017c6a1ce8926ffc94b4cb323e2ca77c314004ed5adaea251e86df44045bce151dcf75'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iUheEnjm/versions/aJjmAMuq/ThirstWasTaken-1.20.1-1.3.12.jar'
+
+[update.modrinth]
+mod-id = 'iUheEnjm'
+version = 'aJjmAMuq'

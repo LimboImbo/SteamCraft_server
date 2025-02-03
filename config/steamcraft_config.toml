@@ -1,0 +1,11 @@
+
+[Items]
+	#How big the radius of Freyas Tear should be.
+	"Tear Radius" = 20.0
+	#How many food points will play have upon respawning.
+	"Food on Respawn" = 10.0
+	#For how long the effect Ice Tears will apply upon breaking Freyas Tear. 20 ticks = 1 second 
+	"Ice Tears Lenght" = 24000.0
+	#How much damage the Tear's explosion should deal.
+	"Tear Damage" = 6.0
+
